@@ -17,3 +17,28 @@ zalgo_text
 pynewtonmath
 bs4
 telegraph
+feedparser
+pynewtonmath
+#memes vvv
+spongemock
+zalgo-text
+geopy
+nltk
+psutil
+aiohttp>=2.2.5
+Pillow>=4.2.0
+CurrencyConverter
+#translator
+googletrans
+#Cool stuff by Peak
+PyLyrics
+#AEX
+hurry.filesize
+#translator
+beautifulsoup4==4.6.3
+tldextract
+wikipedia
+googletrans
+alphabet_detector
+psutil
+tswift
